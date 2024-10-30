@@ -5,4 +5,4 @@ pip install tkinter
 pip install opencv-python
 
 
-Key is :'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'
+Key is in disc
