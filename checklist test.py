@@ -10,7 +10,7 @@ import cv2
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
 # Set up OpenAI API Key
-openai.api_key = ''  # Replace with actual API key
+
 
 # OCR Function to extract text from an image
 def extract_text_from_image(image_path):
