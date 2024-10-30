@@ -1,0 +1,139 @@
+INTRO 
+
+"Good [morning/afternoon], everyone. Today, we’re excited to present our innovative ingredient replacement app, designed to make cooking more accessible and enjoyable for everyone, regardless of dietary restrictions or preferences. 
+
+In a world where dietary needs are becoming increasingly diverse—whether due to allergies, health concerns, or personal choices—finding suitable ingredient substitutions can be a challenge. Many of us have experienced that moment of frustration when a recipe calls for an ingredient we don’t have on hand, or one that we can’t consume. That’s where our app comes in. 
+
+Our goal was simple yet impactful: to empower users to create delicious meals by providing them with convenient alternatives for their ingredients. The app allows users to input ingredients manually or through a photo upload, making it easy to find replacements that suit their dietary needs. 
+
+Throughout this presentation, we will walk you through the goals of our project, demonstrate how the app functions, and discuss its relevance in today’s cooking landscape. We’ll also share some future development plans and the valuable lessons we learned along the way. So, let’s dive in!" 
+
+ 
+
+GOALS 
+
+The primary objective of our ingredient replacement app is to provide users with a comprehensive tool that enhances their cooking experience by facilitating ingredient substitutions. Our goals can be outlined as follows: 
+
+Enhance Cooking Accessibility: 
+
+We aim to break down barriers in cooking by offering alternatives to common ingredients. This is especially important for individuals with dietary restrictions, such as food allergies or intolerances, who often find themselves limited in their cooking options. By providing viable substitutes, we empower users to explore new recipes and enjoy cooking without the fear of adverse reactions. 
+
+Promote Healthier Eating Habits: 
+
+Many users are increasingly conscious of their dietary choices, whether they are adopting a vegan lifestyle, managing health conditions, or simply looking to make healthier substitutions. Our app helps users make informed decisions by suggesting healthier alternatives, thus promoting overall wellness and dietary balance. 
+
+Reduce Food Waste: 
+
+In today’s world, food waste is a significant concern. Our app addresses this issue by encouraging users to utilize ingredients they already have at home, rather than discarding them when they lack specific items. By suggesting substitutes based on what users already possess, we not only help minimize waste but also support sustainable cooking practices. 
+
+Foster Culinary Creativity: 
+
+Cooking is an art, and we believe that creativity should be a part of it. Our app encourages users to think outside the box by presenting them with a variety of substitute options, including unconventional choices they may not have considered. This fosters experimentation in the kitchen and can lead to exciting new flavors and dishes. 
+
+HOW IT WORKS 
+
+The input method of our app is designed to be straightforward and intuitive, ensuring that users can easily find ingredient substitutions. Here’s how it works: 
+
+Manual Input: 
+
+Users can quickly type in the name of the ingredient they wish to replace. This feature is ideal for users who know exactly what they need and prefer a fast search option.  
+
+Photo Upload: 
+
+One of the standout features of our app is the ability to upload a photo of the ingredient. This option caters to users who may not be familiar with the name of the ingredient. The app utilizes image recognition technology to identify the ingredients from the list in the picture, making the process seamless and user-friendly. 
+
+For example, if a user has a recipe in a different language or has a printed-out recipe but feels like not typing the list 
+
+Ingredient Selection and Checkbox List: 
+
+Once an ingredient is inputted, users are presented with a categorized list of possible substitutes. The checkbox list allows users to select multiple ingredients at once, enabling them to find substitutes for several items in a single session. This feature is particularly useful for those planning meals or using recipes that require various ingredients. 
+
+By offering versatile input methods, our app ensures that users can access the information they need quickly and efficiently, making it an invaluable tool in the kitchen. This combination of relevance and user-friendly input methods positions our ingredient replacement app as an essential resource for modern cooks. 
+
+ 
+
+ 
+
+IMPACT 
+
+By focusing on these goals, our ingredient replacement app not only addresses immediate culinary challenges but also contributes to a more sustainable, healthy, and enjoyable cooking experience for users everywhere. 
+
+In today’s fast-paced world, the relevance of our ingredient replacement app cannot be overstated. Here are several key reasons why this app is not just a useful tool but a necessary resource for many individuals: 
+
+Supporting Sustainable Cooking: 
+
+The app promotes sustainability by encouraging users to make the most of the ingredients they have on hand. By finding substitutes for missing items, users are less likely to throw away food, which contributes to reducing overall food waste. This aspect of our app aligns with global sustainability goals and resonates with environmentally conscious consumers. 
+
+Convenience in Meal Preparation: 
+
+The convenience factor cannot be overlooked. Many individuals lead busy lives and may not have the time or resources to visit the store for specific ingredients. Our app alleviates this pressure by quickly providing alternatives that can be found in their kitchens or easily sourced from local grocery stores. This flexibility makes cooking more approachable for everyone. 
+
+ 
+
+ 
+
+FUTURE DEVEELOPMENT 
+
+User Profiles 
+
+Personalization of Preferences: We plan to introduce user profiles that allow individuals to save their dietary preferences, commonly used substitutions, and favorite ingredients. For example, a user who follows a vegan diet could set their profile to automatically prioritize plant-based replacements in search results. This personalization will make the app more intuitive and time-saving for repeat users. 
+
+Going Mobile 
+
+Mobile App Development: Since cooking often takes place away from a desktop or laptop, developing a dedicated mobile app is essential. A mobile version would allow users to access the app’s features directly in the kitchen, making it more practical for real-time use. 
+
+Voice Search and Image Recognition: A mobile app could incorporate voice search, allowing users to simply say the name of the ingredient they want to replace. Combined with photo upload functionality, the mobile version could make the app even more user-friendly and efficient. 
+
+Integrations with Meal Planning and Grocery Services 
+
+Meal Planning Tools: Integrating with meal planning services would allow users to substitute ingredients based on their entire week’s meal plan. For instance, if a user plans meals in advance, our app could provide suggestions for healthier or more accessible substitutes across all recipes, automatically updating their shopping list. 
+
+Grocery Delivery Services: By connecting with grocery services, users could directly order ingredients or substitutions through the app. For example, if a user is missing an ingredient, they could find a substitute, and if they want to purchase it, the app could link to a grocery delivery service where they can order it. 
+
+Recipe Platform Integrations: Integrating with popular recipe websites or apps would allow users to directly access substitution suggestions within their favorite recipes, streamlining the process of adapting recipes for dietary needs or ingredient availability. 
+
+“Healthy Swap” Feature 
+
+Nutritional Recommendations: The “Healthy Swap” feature would provide users with healthier options when searching for ingredient substitutes. For example, if a user searches for a replacement for heavy cream, the app might recommend coconut cream or Greek yogurt as lower-calorie alternatives. This feature would cater to users who want to make healthier dietary choices without sacrificing taste or functionality. 
+
+Calorie and Nutrient Comparisons: With this feature, users could view calorie, fat, protein, and carb comparisons between the original ingredient and suggested substitutes. This would help users make informed decisions based on their health goals. 
+
+Health-Focused Categories: The Healthy Swap feature would include categories like low-sugar, low-sodium, high-protein, or heart-healthy options, providing users with replacements that align with specific nutritional goals. This categorization makes it easier for users to access options that support a balanced diet. 
+
+Mindful Eating and Wellness Tips: In addition to ingredient swaps, the Healthy Swap feature could offer brief wellness tips, such as the benefits of whole grains over refined grains or using natural sweeteners in place of sugar. These insights could support users in adopting healthier, long-term eating habits. 
+
+ 
+
+OUR LESSON LEARNED 
+
+Technical Challenges  
+
+Integrating Image Recognition: One of the most significant technical hurdles we faced was developing an effective image recognition system for identifying ingredients. Initially, we struggled with ensuring that the app could accurately recognize a wide variety of ingredients under different lighting conditions and angles. This required extensive testing and fine-tuning of the algorithms. 
+
+Collaboration  
+
+Our team consisted of different diverse individuals with diverse backgrounds in coding. This diversity allowed us to approach problems from various angles  
+
+AI tool 
+
+Using Ai to give the substitution transformed how we approach ingredient substitution and learned how to use ai in code  
+
+CONCLUSION 
+
+In summary, our ingredient replacement app represents a significant advancement in the way we approach cooking and ingredient management. By providing users with convenient, accessible solutions for ingredient substitutions, we empower them to embrace their culinary creativity while addressing dietary restrictions and preferences. 
+
+ 
+
+Key Takeaways: 
+
+Enhancing Accessibility: Our app breaks down barriers in cooking, allowing individuals with dietary needs to explore a wider range of recipes and ingredients without fear of health complications. 
+
+Promoting Sustainability: By encouraging users to utilize what they have on hand and reduce food waste, we contribute to more sustainable cooking practices that align with global efforts to minimize waste. 
+
+The app serves as a platform for users to share their experiences and tips, creating a collaborative environment where knowledge is exchanged, and creativity is nurtured. 
+
+Future Potential: 
+
+As we look to the future, we are excited about the potential enhancements that will make our app even more user-friendly and impactful. The development of user profiles will allow for personalized experiences, while the mobile app will provide the flexibility needed for real-time cooking decisions. Integrations with meal planning and grocery services will streamline the cooking process, and the "Healthy Swap" feature will empower users to make informed dietary choices. 
+
+Thank you for your attention 
