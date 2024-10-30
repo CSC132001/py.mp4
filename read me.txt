@@ -1,0 +1,5 @@
+pip install pytesseract
+pip install openai
+pip install pillow
+pip install tkinter
+pip install opencv-python
